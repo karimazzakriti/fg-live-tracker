@@ -1,6 +1,3 @@
-// ===================
-// api/analytics.js
-// ===================
 export default async function handler(req, res) {
     // Simple analytics endpoint
     // For now, just return a basic response
